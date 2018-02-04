@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>E53F6E86-202D-49E2-85B4-4244B64E570C</string>
+	<key>IDESourceControlProjectName</key>
+	<string>CKRefreshControl</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>70D2BB93-D564-42B8-BEE4-D0173E081BC1</key>
+		<string>https://github.com/vikasbanga/Delve.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Delve/CKRefreshControl.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>70D2BB93-D564-42B8-BEE4-D0173E081BC1</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/vikasbanga/Delve.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>70D2BB93-D564-42B8-BEE4-D0173E081BC1</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>70D2BB93-D564-42B8-BEE4-D0173E081BC1</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Delve</string>
+		</dict>
+	</array>
+</dict>
+</plist>
